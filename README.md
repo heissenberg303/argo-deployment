@@ -1,5 +1,5 @@
 # argo-deployment
-include terraform and argocd k8s
+include terraform and argocd
 
 ### How to run
 1. Provision ArgoCD using terraform
